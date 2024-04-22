@@ -18,7 +18,7 @@ public:
 
     Playlist(); //constructor fara parametri
 
-    Playlist(string playlistName, int playlistNumberOfSongs, int playlistDuration, vector <string> songs); //constructor cu toti parametri
+    Playlist(string playlistName, int playlistNumberOfSongs, int playlistDuration, vector <string> songs); //constructor cu toti parametrii
 
     Playlist(string _playlistName) //constructor cu un parametru
     {
