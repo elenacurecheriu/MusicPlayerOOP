@@ -1,2 +1,3 @@
-# proiectePOO
-laborator POO - anul I - 2023/2024
+# Proiecte POO
+Laborator POO - FMI UNIBUC - anul I - grupa 142 - 2023/2024
+
