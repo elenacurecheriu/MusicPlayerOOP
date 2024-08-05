@@ -4,6 +4,7 @@ Laborator POO - FMI UNIBUC - anul I - grupa 142 - 2023/2024
 Tematica proiecte: aplicatie de streaming pentru muzica
 
 Concepte de Programare Orientata pe Obiecte implementate:
+
     * supraincarcare operatori
     * constructori/destructori
     * polimorfism
